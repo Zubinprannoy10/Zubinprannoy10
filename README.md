@@ -1,7 +1,5 @@
 ## Hey You! I'm **Zubin** 👋
 
-#### 🚀 Machine Learning Engineer @ **TAMIZH**
-
 <img width="2500" height="400" src="https://i0.wp.com/www.animaatjes.nl/films-en-series/films/shutter-island/animaatjes-shutter-island-2691462.gif" alt="Shutter Island"/>
 
 - 🔭 **Currently working on**: Building a virtual assistant for a smart spectacle product. 
