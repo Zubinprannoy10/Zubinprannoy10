@@ -1,12 +1,9 @@
 ## Hey You! I'm **Zubin** 👋
 
-<img width="2500" height="400" src="https://i0.wp.com/www.animaatjes.nl/films-en-series/films/shutter-island/animaatjes-shutter-island-2691462.gif" alt="Shutter Island"/>
-
-- 🔭 **Currently working on**: Building a virtual assistant for a smart spectacle product. 
 - 🌱 **Learning**: DSA, PyTorch, Docker, Flask.
-- 👯 **Open to collaborate on**: ML, DL, and Computer Vision projects.
+- 👯 **Open to collaborate on**: ML, DL, and Computer Vision.
 - 📫 **Reach me at**: [ignitiousprannoy72@gmail.com](mailto:ignitiousprannoy72@gmail.com)
-- 😄 **Pronouns**: Learning Technologist
+- 😄 **Pronouns**: Technologist
 - ⚡ **Fun fact**: I'm a movie buff – literally, I watch movies all the time!
 
 ## 💻 Tech stack I'm familiar with
