@@ -1,14 +1,73 @@
-## Hey You! I'm **Zubin** 👋
+# Hey, I'm Zubin 👋
 
-- 👯 **Open to collaborate on**: AI/ML, Web.
-- 📫 **Reach me at**: [ignitiousprannoy72@gmail.com](mailto:ignitiousprannoy72@gmail.com)
+**Sales & Revenue Operations Engineer** based in Bengaluru, India.
 
-## 💻 Tech stack I've worked with
-<img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="50" height="50" src="https://img.icons8.com/arcade/64/sql.png" alt="sql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/> <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/bash.png" alt="bash"/> <img width="50" height="50" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/docker.png" alt="docker"/> <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/> <img width="50" height="50" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/> <img width="50" height="50" src="https://img.icons8.com/arcade/64/pytorch.png" alt="pytorch"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/opencv.png" alt="opencv"/> <img width="64" height="64" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/> <img width="50" height="50" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/> <img width="50" height="50" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/hugging-face_app.png" alt="hugging-face_app"/> <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/> <img width="48" height="48" src="https://img.icons8.com/color/48/snowflake.png" alt="snowflake"/> <img width="48" height="48" src="https://img.icons8.com/color/48/streamlit.png" alt="streamlit"/>
+I work on the GTM ops stack at [Kognitos](https://kognitos.com) — Salesforce CRM administration & development, HubSpot, pipeline automation, and everything that keeps a B2B sales engine running cleanly.
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignitious-zubin-prannoy-b61a791bb/)  
-*Let's connect and create something amazing together!*
+I'm also technical enough to build things: Apex triggers, SOQL queries, Python scripts, and the occasional hardware project that wins a grant.
 
 ---
 
+## 🏢 What I Do Day-to-Day
+
+- **Salesforce** — CRM admin, Apex, SOQL, Flows, Visualforce, custom objects, validation rules
+- **HubSpot** — pipeline hygiene, automated workflows, email sequences, lead routing
+- **GTM Stack** — Outreach, Apollo.io, Unify GTM, DealHub, DocuSign, Drata
+- **Analytics** — Pipeline dashboards, conversion tracking, funnel reporting for sales leadership
+- **Automation** — Lead routing, deduplication, MEDDICC workflows, quote-to-cash ops
+
+---
+
+## 🛠️ Tech Stack
+
+**Sales & RevOps**
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Apollo.io](https://img.shields.io/badge/Apollo.io-3C3C3C?style=for-the-badge&logoColor=white)
+
+**Programming & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Dev Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Projects
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [MUSE — EMG HCI](https://github.com/Zubinprannoy10/MUSE-EMG-Based-Human-Computer-Interface) | Silent speech recognition via EMG signals · **OpenBCI Grant Winner 2023** 🏆 | Python, OpenBCI, Scikit-learn |
+| [Rotten Tomatoes Predictor](https://github.com/Zubinprannoy10/Rotten_tomatoes_prediction) | Audience rating prediction using Random Forest + SHAP analysis | Python, Scikit-learn, Pandas |
+| [StoryForge](https://github.com/Zubinprannoy10/storyforge_reddit_hack) | Collaborative multiplayer narrative game built on Reddit's platform | TypeScript, Node.js, Devvit |
+| [BeakHen](https://github.com/Zubinprannoy10/BeakHen) | Bluetooth item tracker using ESP32 + BLE | C++, ESP32 |
+
+---
+
+## 📜 Certifications
+
+- ✅ Salesforce Admin with Real-Time Project
+- ✅ Salesforce Admin — Lightning Flows
+- ✅ Salesforce Lightning Reports & Dashboards
+- ✅ HubSpot CRM Specialist
+- ✅ HubSpot Marketing Strategy
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignitious-zubin-prannoy-b61a791bb/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://zubinprannoy10.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ignitiousprannoy72@gmail.com)
+
+---
+
+*Open to Sales Ops, RevOps, and GTM Ops roles at Series A/B startups. If you're building something ambitious, let's talk.*
